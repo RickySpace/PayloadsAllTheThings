@@ -10,6 +10,7 @@
 - [PwnFunction](https://www.youtube.com/channel/UCW6MNdOsqv2E9AjQkv9we7A)
 - [OJ Reeves](https://www.youtube.com/channel/UCz2aqRQWMhJ4wcJq3XneqRg)
 - [Hacksplained - A Beginner Friendly Guide to Hacking](https://www.youtube.com/c/hacksplained)
+- [NetworkChuck](https://www.youtube.com/channel/UC9x0AN7BWHpCDHSm9NiJFJQ)
 - [STÖK](https://www.youtube.com/c/STOKfredrik)
 - [Defcon](https://www.youtube.com/user/DEFCONConference)
 - [Hackersploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q)
